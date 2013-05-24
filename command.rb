@@ -18,7 +18,7 @@ module Command
   private
 
   def execute(command)
-    output = %Q(echo "#{command}" > test)
+    output = %Q(echo "#{command} | head -n 100" > test)
     %x(#{output})
   end
 
@@ -44,3 +44,7 @@ Command.clear
 Command.print('pwd')
 gets
 Command.run('pwd')
+gets
+Command.print('git g')
+gets
+Command.run('git g')
