@@ -1,0 +1,11 @@
+# Keywords
+- repository
+- commit (store changes)
+- push, submit patches
+- working tree / working copy
+- revision
+- upstream repository
+- push, pull (fetch, merge) (update in svn)
+- tags
+- branches, merging
+- locking?
