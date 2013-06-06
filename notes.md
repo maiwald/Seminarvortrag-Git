@@ -9,6 +9,15 @@
 - tags
 - branches, merging
 
+# Random
+- developed by Linus Torvalds as a way to work on the linux kernel.
+  before git linux was maintained using tarballs and patches
+- DISTRIBUTED, FAST, and THE THINGS YOU PUT IN COME OUT AGAIN! (security and trust)
+- not one central location, offline work
+- embracing branching and merging (because of distributed nature). its EASY!
+- open source
+- stemms from a hatred of CVS (and SVN)
+
 # Structure
 
 * What is distributed version control and why do you want it?
