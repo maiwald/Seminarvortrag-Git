@@ -14,9 +14,12 @@
   before git linux was maintained using tarballs and patches
 - DISTRIBUTED, FAST, and THE THINGS YOU PUT IN COME OUT AGAIN! (security and trust)
 - not one central location, offline work
-- embracing branching and merging (because of distributed nature). its EASY!
+
+- not begin afraid to merge, work is uncommitted for weeks
+- not trying stuff out in master only to realize the change was larger than expected
+-> embracing branching and merging (because of distributed nature). its EASY!
+
 - open source
-- stemms from a hatred of CVS (and SVN)
 
 # Structure
 
